@@ -167,6 +167,7 @@ body {
   background: rgba(194,24,91,0.2);
   animation: btn-glow 2.5s ease-in-out infinite;
   cursor: pointer;
+  margin-top: 2.5rem;
 }
 .cta-btn:hover { transform: scale(1.06); }
 .cta-btn:active { transform: scale(0.95); }
